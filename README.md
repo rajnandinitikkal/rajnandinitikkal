@@ -1,4 +1,4 @@
--  Hi, I’m @rajnandinitikkal
+-  Hi, I’m @rajnandinitikkal https://rajnandiniportfolio.netlify.app/
 -  This is my Linkedin Profile https://www.linkedin.com/in/rajnandini-t-6a126b249
 <!---
 rajnandinitikkal/rajnandinitikkal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
