@@ -1,25 +1,16 @@
 -  Hi, I’m @rajnandinitikkal https://rajnandiniportfolio.netlify.app/
--  This is my Linkedin Profile https://www.linkedin.com/in/rajnandini-t-6a126b249
--  
+-  This is my Linkedin Profile https://www.linkedin.com/in/rajnandini-t-6a126b249 
 <p align="center">
   <a href="https://github.com/rajnandinitikkal"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;Always%20learning%20new%20things......&center=true&width=480&height=75"></a>
 </p>
-
-
 
 Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rajnandini Tikkal
 ================================================================================================================================
 <h3 align="center">A Final year CSE student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantjagtap2909&label=Profile%20views&color=0e75b6&style=flat" alt="prashantjagtap2909" /> </p>
+<-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantjagtap2909" alt="prashantjagtap2909" /></a> </p>
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
 <br>
 
@@ -28,15 +19,9 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
  - 💻 Solved **100+** questions on coding platforms
  - 5 ⭐ on HackerRank in  Java
  - 3 ⭐ on HackerRank in python
- - 
+
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,26 +56,19 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-
-
-
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>  Github Stats </b> 
  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashantjagtap2909&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajnandinitikkal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjagtap2909&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnandinitikkal&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
- 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prashantjagtap2909" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajnandinitikkal" alt="GitHub Streak" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
