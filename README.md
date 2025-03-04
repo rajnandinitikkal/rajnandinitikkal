@@ -61,7 +61,7 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajnandinitikkal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
 ### Dev Quote
-
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
