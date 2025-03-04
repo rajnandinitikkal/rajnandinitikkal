@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/rajnandinitikkal"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;Always%20learning%20new%20things......&center=true&width=480&height=75"></a>
 </p>
+
 Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rajnandini Tikkal
 ================================================================================================================================
 <h3 align="center">A Final year CSE student</h3>
@@ -60,11 +61,5 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajnandinitikkal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnandinitikkal&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
