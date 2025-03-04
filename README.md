@@ -1,16 +1,15 @@
 -  Hi, I’m @rajnandinitikkal https://rajnandiniportfolio.netlify.app/
 -  This is my Linkedin Profile https://www.linkedin.com/in/rajnandini-t-6a126b249 
 <p align="center">
-  <a href="https://github.com/rajnandinitikkal"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;Always%20learning%20new%20things......&center=true&width=480&height=75"></a>
+  <a href="https://github.com/rajnandinitikkal"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;Always%20learning%20new%20things......&center=true&width=480&height=30"></a>
 </p>
-
 Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rajnandini Tikkal
 ================================================================================================================================
 <h3 align="center">A Final year CSE student</h3>
 
-<-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> 
 
 <br>
 
@@ -66,9 +65,9 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <br/>  
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajnandinitikkal" alt="GitHub Streak" /></a>
+ <-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajnandinitikkal" alt="GitHub Streak" /></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
