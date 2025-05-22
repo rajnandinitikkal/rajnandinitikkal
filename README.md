@@ -1,4 +1,4 @@
--  Hi, I’m @rajnandinitikkal https://rajnandiniportfolio.netlify.app/
+-  Hi, I’m @rajnandinitikkal [https://rajnandiniportfolio.netlify.app/](https://rajnandinitikkal.github.io/Rajnandini_Tech/)
 -  This is my Linkedin Profile https://www.linkedin.com/in/rajnandini-t-6a126b249 
 <p align="center">
   <a href="https://github.com/rajnandinitikkal"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;Always%20learning%20new%20things......&center=true&width=480&height=75"></a>
